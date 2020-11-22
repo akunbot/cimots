@@ -1,5 +1,5 @@
 exports.info = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `⚜ ${BotName} ⚜
+	return `⚜️ ${BotName} ⚜️
   
 ʜᴀʟʟᴏ *${id.split("@s.whatsapp.net")[0]}*
 "
@@ -8,7 +8,7 @@ Pasang Iklan? Chat Whatsapp
 💰ᴅᴏɴᴀsɪ ᴀɢᴀʀ ʙᴏᴛ ᴛᴇᴛᴀᴘ ᴀᴋᴛɪғ, !ᴅᴏɴᴀsɪ ᴜɴᴛᴜᴋ ʙᴇʀᴅᴏɴᴀsɪ.
 
 INFO BOT! :
-🔱 *ᴀᴜᴛʜᴏʀ*: ʀᴇᴜᴢ
+🔱 *ᴀᴜᴛʜᴏʀ*: ANGGA GANZ
 🔱 *ɢɪᴛʜᴜʙ*: https://github.com/
 🔱 *ɪɴsᴛᴀɢʀᴀᴍ*: ${instagram}
 🔱 *ʏᴏᴜᴛᴜʙᴇ*: ${youtube}
