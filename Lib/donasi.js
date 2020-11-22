@@ -8,18 +8,17 @@ exports.donasi = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, 
 🐼🐼
 
 
-🗓*${tampilTanggal}* 🐼
-⏰*${tampilWaktu}* 🐼
+🗓*${tampilTanggal}* 🐣
+⏰*${tampilWaktu}* 🐣
 (Waktu Server)
 
 ᴋᴀʟɪᴀɴ ʙɪsᴀ ᴅᴏɴᴀsɪ ᴍᴇɴɢɢᴜɴᴀᴋᴀɴ
    
-🛡 *ᴘᴜʟsᴀ*: 
-🛡 *ᴏᴠᴏ*: 
-🛡 *ᴅᴀɴᴀ* : 
-🛡 *ɢᴏᴘᴀʏ* : 
+🛡 *ᴘᴜʟsᴀ*: 083164931691
+🛡 *ᴅᴀɴᴀ* : 083164931691
+🛡 *ɢᴏᴘᴀʏ* : 083164931691
 
-📺*IKLAN* *YOUTUBE REUZ*
+📺*IKLAN* *YOUTUBE LIMITE CISHE*
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
