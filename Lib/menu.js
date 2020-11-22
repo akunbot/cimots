@@ -1,5 +1,5 @@
 exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, telegram, youtube, kapanbotaktif, grupch1, grupch2) => {
-	return `〄*${BotName}*〄
+	return `⚜️*${BotName}*⚜️
   
 ʜᴀʟʟᴏ *${id.split("@s.whatsapp.net")[0]}* 
 sᴇᴍᴏɢᴀ sᴇʜᴀᴛ sᴇʟᴀʟᴜ!
@@ -10,7 +10,7 @@ sᴇᴍᴏɢᴀ sᴇʜᴀᴛ sᴇʟᴀʟᴜ!
 
 ▬▬▬▬▬▬ FITUR  ${BotName}: ▬▬▬▬▬▬
  
-☞*FUN*
+☞*FUN*🐣
 
 ✎ _*!pantun*_
 _${BotName}_𝔞𝔨𝔞𝔫 𝔪𝔢𝔫𝔤𝔦𝔯𝔦𝔪𝔨𝔞𝔫𝔪𝔲 𝔭𝔞𝔫𝔱𝔲𝔫 𝔰𝔢𝔠𝔞𝔯𝔞 𝔯𝔞𝔫𝔡𝔬𝔪
@@ -104,11 +104,11 @@ _${BotName}_𝔞𝔨𝔞𝔫 𝔪𝔢𝔫𝔠𝔞𝔯𝔦𝔨𝔞𝔫 𝔨𝔢�
 ${instagram}
 
 • ᴛᴇʟᴇɢʀᴀᴍ : ${telegram}
-• ʏᴏᴜᴛᴜʙᴇ : R E U Z
-• ᴡᴀ : 081271699856
+• ʏᴏᴜᴛᴜʙᴇ : Limite cishe
+• ᴡᴀ : 083164931691
 • ᴘᴀsᴀɴɢ ɪᴋʟᴀɴ? ᴄʜᴀᴛ ᴡʜᴀᴛsᴀᴘᴘ.
 
-📺 *IKLAN* : *YOUTUBE REUZ*
+📺 *IKLAN* : *YOUTUBE LIMITE CISHE*
 
 ☄═════════════════════════════════
 
